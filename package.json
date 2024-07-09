@@ -1,0 +1,7 @@
+{
+  "name": "TaskManager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Denis Bain <baindenis95@gmail.com>",
+  "license": "MIT"
+}
